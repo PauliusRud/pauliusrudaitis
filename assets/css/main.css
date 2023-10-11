@@ -963,7 +963,7 @@ nav {
 @media(max-width:1200px) {
   #work_gallery img,
   .gallery_text_container{
-    width: 300px;
+    width: 280px;
     height: 200px;
   }
   .cv_info_icon_link_box_in_line {

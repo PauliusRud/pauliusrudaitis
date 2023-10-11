@@ -840,7 +840,7 @@ const translations = {
         hobbies_9: "Svetainių kūrimas",
         hobbies_10: "Važinėjimas motociklu",
         hobbies_11: "Filmų kūrimas",
-        hobbies_12: "Kompiuterių surinkimas/taisymas",
+        hobbies_12: "Kompiuterių taisymas",
 
         gallery_heading: "Dalis atliktų",
         gallery_paragraph: "projektų",
