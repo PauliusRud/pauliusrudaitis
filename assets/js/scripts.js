@@ -715,6 +715,9 @@ jQuery(document).ready(function () {
 // Translations object
 const translations = {
     en: {
+        main_page: "Frontpage",
+        gallery_page: "Gallery",
+
         education_heading: 'EDUCATION',
 
         education_date_1: '2018-11',
@@ -780,6 +783,9 @@ const translations = {
         gallery_paragraph: "projects",
     },  
     lt: {
+        main_page: "Pagrindinis",
+        gallery_page: "Galerija",
+
         education_heading: 'IŠSILAVINIMAS',
 
         education_date_1: '2018-11',
