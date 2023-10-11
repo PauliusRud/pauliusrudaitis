@@ -823,7 +823,7 @@ const translations = {
         job_description_date_3: "2018.02 - 2018.05",
         job_description_heading_3: 'Padavėjas kavinėje "SAKWA"',
         job_description_3: 'Kavinėje - bare "SAKWA" lankytojoms teikiau puikų klientų aptarnavimą, priimdavau maisto ir gėrimų užsakymus, skubiai pristatydavau užsakymus ir užtikrinavau švarią bei jaukią valgomo aplinką.',
-        job_description_date_4: "",
+        job_description_date_4: "2017.06 - 2017.11",
         job_description_heading_4: 'Kasininkas parduotuvėje "Skonis ir Kvapas".',
         job_description_4: '"Skonis ir Kvapas" parduotuvėse bendravau su klientais, teikiau rekomendacijas ir patarimus dėl jų pirkinių ir efektyviai dirbau su kasos aparatu.',
 
